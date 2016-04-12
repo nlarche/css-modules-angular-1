@@ -18,7 +18,7 @@
     "javascript"
   ],
   "author": "nicolas larche",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/nlarche/css-modules-angular-1/issues"
   },
